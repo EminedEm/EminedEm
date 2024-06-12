@@ -10,7 +10,7 @@
 
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg]https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 <br />
