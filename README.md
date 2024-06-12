@@ -1,9 +1,9 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino.gif" width="500" height="320" />
 
 ## I'm a Student; Computer Vision, Machine Learning and robotics enthusiast. Programming robots is so much fun !!
-- 🌱 I’m currently learning 😂
-- 💻 I am currently working on a project involving ROS
-- ⚡ Fun fact: I love to swim 🏊‍♀️, Arduino programming 
+- 🌱 I’m currently learning 
+- 💻I am currently working on scientific computing
+  
 
 
 <br />
